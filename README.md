@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buffalo-Crow, People call me Crow 
 - 👀 I’m interested in... Software Engineering, Astrology and Esoteric wisdom
-- 🌱 I’m currently learning... JavaScript
+- 🌱 I’m currently learning... JavaScript and React
 - 💞️ I’m looking to collaborate on projects that will help me to grow as a developer
 - 📫 How to reach me ... crowwalk@icloud.com
 - 😄 Pronouns: ... he/ him or Crow 
